@@ -1,0 +1,6 @@
+{
+  "name": "Fake Job Posting Detector",
+  "description": "Scam and fake job posting analyzer powered by ML classification, TF-IDF feature explainability, and 8-point rule-based red flag detection based on the EMSCAD dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
