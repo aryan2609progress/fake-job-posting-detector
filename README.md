@@ -102,8 +102,8 @@ The project combines multiple approaches rather than relying on a single signal.
                           │
                           ▼
                  ┌─────────────────┐
-                 │ Text Processing  │
-                 │      / NLP       │
+                 │ Text Processing │
+                 │      / NLP      │
                  └────────┬────────┘
                           │
                           ▼
@@ -112,7 +112,7 @@ The project combines multiple approaches rather than relying on a single signal.
                           │
                           ▼
                  ┌─────────────────┐
-                 │ ML Classification│
+                 │ML Classification│
                  └────────┬────────┘
                           │
                           ▼
